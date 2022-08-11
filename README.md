@@ -14,10 +14,10 @@ if not working remove node_modules and then again run the
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
 
 
 
+This the home page of the website. The background of the name of the movie will change after hovering.
 ![image](https://user-images.githubusercontent.com/92045441/184180458-1e95bb3a-2edc-4c91-b869-69778ab7442b.png)
 
 
